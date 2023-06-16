@@ -109,7 +109,7 @@ p {
   color: hsl(217, 12%, 63%);
   margin-bottom: 16px;
 }
-.hidden {
+.hide {
   display: none;
 }
 .attribution {

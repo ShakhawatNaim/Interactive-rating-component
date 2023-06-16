@@ -5,7 +5,7 @@ const rating = document.getElementById("rating");
 const rates = document.querySelectorAll(".btn");
 
 submitBtn.addEventListener("click", () => {
-  thanksContainer.classList.remove("hidden");
+  thanksContainer.classList.remove("hide");
   mainContainer.style.display = "none";
 });
 
